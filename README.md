@@ -7,7 +7,7 @@ This repository demonstrates GitHub Pages deployment and automated GitHub activi
 
 ## Recent activity
 
-<!--START_SECTION:activity-->
+<!--START_SECTION:activity-BROKEN-->
 1. 📝 Committed to main in [Lee-Yi-Ting/devops-pages-lab](https://github.com/Lee-Yi-Ting/devops-pages-lab/commit/c7c5396c04db53b7f61466b92e4c9172a0e1a9f7)
 2. 🎉 Created a new branch main in [Lee-Yi-Ting/devops-pages-lab](https://github.com/Lee-Yi-Ting/devops-pages-lab/tree/main)
 3. 📝 Committed to patch-1 in [Lee-Yi-Ting/ci-testing-demo](https://github.com/Lee-Yi-Ting/ci-testing-demo/commit/ea6429d58b0a2528601d34b45a1f93c957c76b3e)
