@@ -43,15 +43,37 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Validate activity markers
+      - name: Validate source files
         shell: bash
         run: |
+          set -e
           test -f README.md
           test -f index.md
           grep -Fq '<!--START_SECTION:activity-->' README.md
           grep -Fq '<!--END_SECTION:activity-->' README.md
           grep -Fq '{% include_relative README.md %}' index.md
-          echo "Validation passed!"
+          echo "Source validation passed!"
+
+      - name: Download built website
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          path: ./downloaded-site
+
+      - name: Extract website artifact
+        shell: bash
+        run: |
+          mkdir -p ./site
+          tar -xf ./downloaded-site/artifact.tar -C ./site
+
+      - name: Validate generated HTML
+        shell: bash
+        run: |
+          set -e
+          test -f ./site/index.html
+          grep -Fq 'Hi, I' ./site/index.html
+          grep -Fq 'Recent activity' ./site/index.html
+          echo "Generated HTML validation passed!"
 
   deploy:
     needs: [build, validate]
@@ -63,3 +85,4 @@ jobs:
       - name: Deploy GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
