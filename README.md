@@ -8,15 +8,15 @@ This repository demonstrates GitHub Pages deployment and automated GitHub activi
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch Lee-Yi-Ting-patch-1 in [Lee-Yi-Ting/a9-dependabot-vulnerability-demo](https://github.com/Lee-Yi-Ting/a9-dependabot-vulnerability-demo/tree/Lee-Yi-Ting-patch-1)
-2. 📝 Committed to main in [Lee-Yi-Ting/-devsecops-security-lab](https://github.com/Lee-Yi-Ting/-devsecops-security-lab/commit/52e0fff3f84bf02471a8dc58aeac6462e2642333)
-3. 📝 Committed to main in [Lee-Yi-Ting/-devsecops-security-lab](https://github.com/Lee-Yi-Ting/-devsecops-security-lab/commit/464f897d36f68a8e46feb61a8bf5b6338fc10534)
-4. 📥 Opened PR #2 in [Lee-Yi-Ting/a9-dependabot-vulnerability-demo](https://github.com/Lee-Yi-Ting/a9-dependabot-vulnerability-demo/pull/2)
-5. 🗣 Commented on PR #1 in [Lee-Yi-Ting/a9-dependabot-vulnerability-demo](https://github.com/Lee-Yi-Ting/a9-dependabot-vulnerability-demo/issues/1#issuecomment-6818338250)
-6. 🗣 Commented on PR #1 in [Lee-Yi-Ting/a9-dependabot-vulnerability-demo](https://github.com/Lee-Yi-Ting/a9-dependabot-vulnerability-demo/issues/1#issuecomment-6818364938)
-7. 📝 Committed to main in [Lee-Yi-Ting/devops-pages-lab](https://github.com/Lee-Yi-Ting/devops-pages-lab/commit/1276a08deaa0e1c564e4cc315c27d1a7a453992b)
-8. 📝 Committed to main in [Lee-Yi-Ting/devops-pages-lab](https://github.com/Lee-Yi-Ting/devops-pages-lab/commit/0953578dbfcaa40879d555a8f45166ae63e9e558)
-9. 📝 Committed to main in [Lee-Yi-Ting/devops-pages-lab](https://github.com/Lee-Yi-Ting/devops-pages-lab/commit/cf03e7b55f68d142805bad6dde583aaf41247f84)
-10. 📝 Committed to main in [Lee-Yi-Ting/devops-pages-lab](https://github.com/Lee-Yi-Ting/devops-pages-lab/commit/58fd54080e6f07155933bba0830881ee7608f8e8)
+1. 📝 Committed to main in [Lee-Yi-Ting/a9-dependabot-vulnerability-demo](https://github.com/Lee-Yi-Ting/a9-dependabot-vulnerability-demo/commit/0b007acb90cd495ca67c2482b241468ce20b98c6)
+2. 📝 Committed to main in [Lee-Yi-Ting/a9-dependabot-vulnerability-demo](https://github.com/Lee-Yi-Ting/a9-dependabot-vulnerability-demo/commit/358e49906c8ef34ceafae9cc817b4c0fad9aefa9)
+3. 🎉 Created a new branch main in [Lee-Yi-Ting/-devsecops-security-lab](https://github.com/Lee-Yi-Ting/-devsecops-security-lab/tree/main)
+4. 🎉 Created a new branch main in [Lee-Yi-Ting/a9-dependabot-vulnerability-demo](https://github.com/Lee-Yi-Ting/a9-dependabot-vulnerability-demo/tree/main)
+5. 📝 Committed to main in [Lee-Yi-Ting/-devsecops-security-lab](https://github.com/Lee-Yi-Ting/-devsecops-security-lab/commit/ce1084407e673eda6f234062fbac6260cf1d6e5f)
+6. 🎉 Created a new branch Lee-Yi-Ting-patch-1 in [Lee-Yi-Ting/a9-dependabot-vulnerability-demo](https://github.com/Lee-Yi-Ting/a9-dependabot-vulnerability-demo/tree/Lee-Yi-Ting-patch-1)
+7. 📝 Committed to main in [Lee-Yi-Ting/-devsecops-security-lab](https://github.com/Lee-Yi-Ting/-devsecops-security-lab/commit/52e0fff3f84bf02471a8dc58aeac6462e2642333)
+8. 📝 Committed to main in [Lee-Yi-Ting/-devsecops-security-lab](https://github.com/Lee-Yi-Ting/-devsecops-security-lab/commit/464f897d36f68a8e46feb61a8bf5b6338fc10534)
+9. 📥 Opened PR #2 in [Lee-Yi-Ting/a9-dependabot-vulnerability-demo](https://github.com/Lee-Yi-Ting/a9-dependabot-vulnerability-demo/pull/2)
+10. 🗣 Commented on PR #1 in [Lee-Yi-Ting/a9-dependabot-vulnerability-demo](https://github.com/Lee-Yi-Ting/a9-dependabot-vulnerability-demo/issues/1#issuecomment-6818338250)
 <!--END_SECTION:activity-->
 
